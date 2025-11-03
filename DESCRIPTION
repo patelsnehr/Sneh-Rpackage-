@@ -1,0 +1,16 @@
+Package: Sneh
+Title: Learning how to make an R package
+Version: 0.0.0.9000
+Authors@R: person("Sneh", "Patel", email = "prs23@usf.edu", role = c("aut", "cre"))
+Description: This package provides tools developed as part of the LIS 4370 R 
+    Programming course assignment 10. It demonstrates fundamental package 
+    creation and documentation principles for educational purposes.
+Depends: R (>= 3.1.2)
+Imports: ggplot2, dplyr
+License: MIT + file LICENSE
+LazyData: true
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+URL: https://github.com/patelsnehr/R_programming_Fall2025_Patel_Sneh
+BugReports: https://github.com/patelsnehr/R_programming_Fall2025_Patel_Sneh/issues
